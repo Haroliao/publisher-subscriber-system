@@ -1,5 +1,5 @@
 # publisher-subscriber-system
-The pub-sub system uses a centralized broker model, where brokers act as intermediaries between a network of publishers and subscribers. Publishers can create and delete topics, publish topic specfic messages and see each topic’s subscriber counts. Subscribers can view, subscribe and unsubscribe from all publishers' created topics, and they can also view a list of their current subscriptions and receive messages published to the topics they are subscribed to
+This pub-sub system uses a centralized broker model, where brokers act as intermediaries between a network of publishers and subscribers. Publishers can create and delete topics, publish topic specfic messages and see each topic’s subscriber counts. Subscribers can view, subscribe and unsubscribe from all publishers' created topics, and they can also view a list of their current subscriptions and receive messages published to the topics they are subscribed to
 
 First start the directory service with java -jar "\path\to\DirectoryService.jar"
 
